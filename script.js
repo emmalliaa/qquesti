@@ -5,8 +5,8 @@ const yesBtn= document.querySelector(".yesbtn");
 const noBtn= document.querySelector(".nobtn");
 
 yesBtn.addEventListener('click', ()=>{
-    question.innerHTML=":33333333 tesim sa";
-    berry.src="img/heartCat.jpg";
+    question.innerHTML=":33333333 hhhhh tesim sa";
+    berry.src="img/happy-cat-cat.gif";
 });
 noBtn.addEventListener("mouseover", () => {
     const noBtnRect = noBtn.getBoundingClientRect();
